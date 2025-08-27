@@ -1,0 +1,17 @@
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+.ipynb_checkpoints/
+
+# Datos / índices / logs
+chroma_db/
+logs/
